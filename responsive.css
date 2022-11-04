@@ -1,0 +1,138 @@
+@media screen and (max-width : 700px) {
+
+    .form-container {
+        width: 100%;
+        border-bottom-left-radius: 20px;
+        border-top-left-radius: 20px;
+
+
+    }
+
+    .main {
+        height: 80%;
+    }
+
+    #illustration {
+        background-image: url(assets/light.jpg);
+        position: absolute;
+        width: 16%;
+        border-radius: 100px;
+        height: 12%;
+        margin-left: 10%;
+        margin-top: 2%;
+
+    }
+
+    .form-header {
+        margin-top: 10px;
+    }
+
+    button:hover {
+        transform: scale(0.96);
+    }
+
+    button[type="submit"] {
+
+        background-image: linear-gradient(to right, #ff4f61, #ff715b);
+        color: white;
+    }
+
+
+    button {
+        border-radius: 8px;
+        padding: 12px;
+        border: none;
+        cursor: pointer;
+        transition: all 200ms ease-in;
+    }
+
+    button:active {
+        opacity: 0.8;
+    }
+
+
+
+
+}
+
+
+@media screen and (max-width : 500px) {
+
+    #illustration {
+        background-image: url(assets/light.jpg);
+        position: absolute;
+        width: 17%;
+        height: 10%;
+        margin-top: 7%;
+        margin-left: 9%;
+    }
+
+    .main {
+        height: 80%;
+    }
+
+    button:hover {
+        transform: scale(0.96);
+    }
+
+    button[type="submit"] {
+
+        background-image: linear-gradient(to right, #ff4f61, #ff715b);
+        color: white;
+    }
+
+
+    button {
+        border-radius: 8px;
+        padding: 12px;
+        border: none;
+        cursor: pointer;
+        transition: all 200ms ease-in;
+    }
+
+    button:active {
+        opacity: 0.8;
+    }
+
+
+}
+
+@media screen and (max-width : 380px) {
+    #illustration {
+        background-image: url(assets/light.jpg);
+        position: absolute;
+        width: 17%;
+        margin-left: 9%;
+        margin-top: 4%;
+        height: 10%;
+    }
+
+    .main {
+        height: 80%;
+    }
+
+    button:hover {
+        transform: scale(0.96);
+    }
+
+    button[type="submit"] {
+
+        background-image: linear-gradient(to right, #ff4f61, #ff715b);
+        color: white;
+    }
+
+
+    button {
+        border-radius: 8px;
+        padding: 12px;
+        border: none;
+        cursor: pointer;
+        transition: all 200ms ease-in;
+    }
+
+    button:active {
+        opacity: 0.8;
+    }
+
+
+}

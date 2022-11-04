@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/7f335cf7b9.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="responsive.css">
+    <script src="script.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Login Dark</title>
+</head>
+
+<body class="themed">
+
+    <div class="main">
+        <div id="illustration"></div>
+        <div class="form-container">
+            <div class="theme-selector">
+                <input type="checkbox" id="switch" onchange="onThemeChange()" value="dark" />
+
+                <label for="switch">Toggle </label>
+            </div>
+
+            <div class="form-header">
+                <h3>Entre nessa Viagem</h3>
+
+                <p> Não tem uma conta? <a> Cadastre-se </a></p>
+            </div>
+
+            <form>
+                <input placeholder="Email" />
+                <input placeholder="Senha" type="password" />
+
+                <button type="submit" form="form" value="Submit">Continuar</button>
+            </form>
+
+            <div class="form-buttons">
+                <button>
+                    <i class="fa-brands fa-google"></i>
+                    <span>Continuar com Google</span>
+                </button>
+
+                <button>
+                    <i class="fa-brands fa-apple"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
