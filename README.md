@@ -25,7 +25,7 @@
    
  # Roadmap 
    
-   <p>Innovative design and with a lot of didactics, this project helped me a lot to challenge and want to improve every day more!!</p>
+   <p>Innovative design and with a lot of didactics, this project helped me a lot to challenge and want to improve every day more, and with Responsiveness for all types of screens !!</p>
    
    
  # Technologies
@@ -43,7 +43,11 @@
    
 #  Photos
    
-   <img src="" width= 400px >
+   <img src="print1.JPG" width='50%' >
+   
+   <img src="print2.JPG" width= '50%' >
+   
+   <img src="print3.gif" width='70%'  >
    
    
 # Author 
