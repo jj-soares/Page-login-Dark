@@ -6,29 +6,36 @@
   😉 This project was the first where I ventured to make a Dark theme
 </h4>
 
+## Photo 🎴
+   <div align='center' >
+   <img src="./src/assets/movie.gif">
+  
+   </div>
+
 <p align="center">   
-   <a href="#on">On</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#technologies">Technologies</a> .
-   <a href="#photos">Photos</a> . 
-   <a href="#author">Author</a>
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photos">Photos</a> . 
+   <a href="#Author">Author</a> 
+   
  </p>
 
 
+
    
- # On
+ ## On ✔
      
      
    <p> I created this project, to improve my skills with the technologies I use, and to challenge myself a little more to improve the Dark theme</p>
    
    
    
- # Roadmap 
+ ## Roadmap 🗺
    
    <p>Innovative design and with a lot of didactics, this project helped me a lot to challenge and want to improve every day more, and with Responsiveness for all types of screens !!</p>
    
-   
- # Technologies
+   ## Technologies 🚀
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
@@ -41,14 +48,7 @@
 <br>
 <br>
    
-#  Photos
-   
-   <img src="print1.JPG" width='50%' >
-   
-   <img src="print2.JPG" width= '50%' >
-   
-   <img src="print3.gif" width='70%'  >
-   
-   
-# Author 
-   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+    
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+
